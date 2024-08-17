@@ -1,2 +1,2 @@
-# simple_flask_app
- devops practice
+# simple-flask-app
+ 
